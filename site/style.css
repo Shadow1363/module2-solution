@@ -26,7 +26,6 @@ padding: 30px 2px 0px 0px;
 margin: 1%;
 height: auto;
 border: 1px solid black;
-outline: 5px solid white;
 }
 
 #title1 {
@@ -73,11 +72,6 @@ margin: 0px;
 .row {
   width: 100%;
 }
-
-[class*="col-"] {
-  width: 100%;
-}
-
 
 /********** Large devices only **********/
 @media (min-width: 992px) {
